@@ -6,5 +6,8 @@ int main(){
     cout<<*p<<endl;
     p++;
     cout<<*p<<endl;
+    p--;
+    cout<<*p<<endl;
+    
     return 0;
 }
