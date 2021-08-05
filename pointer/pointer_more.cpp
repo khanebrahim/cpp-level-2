@@ -5,6 +5,6 @@ int main (){
     int *p=A;
     for (int i=0; i<5; i++)
     {
-        cout<<(A+i)<<endl;
+        cout<<*(p+i)<<endl;
     }
 }
