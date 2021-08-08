@@ -8,5 +8,7 @@ int main(){
     x++;
     cout<<y<<endl;
     cout<<&x<<" \n"<<&y;
+    
+    
 }
 
