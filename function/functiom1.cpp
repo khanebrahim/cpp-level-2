@@ -13,4 +13,5 @@ int main(){
     r=maxim(x,y,z);
     cout<<r<<endl;
     return 0;
+
 }
